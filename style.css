@@ -1,0 +1,33 @@
+#grid {
+    display: flex;
+    flex-direction: row;
+    width: 960px;
+    flex-wrap: wrap;
+    gap: 0px;
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    justify-self: center;
+  
+}
+
+    /* flex-wrap: wrap;
+    flex-basis: 500px; */
+/* } */ 
+div {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 0;
+    border-color: black;
+}
+
+button {
+    display: flex;
+    justify-self: center;
+    padding: 16px;
+    font-size: 20px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+    border-color: rgb(250, 72, 190);
+}
